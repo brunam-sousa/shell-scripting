@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # auditd.sh: esse script não verifica a instalação/configuraçao do rsyslog. Para tal finalidade podemos utilizar o script que está na wiki
-# para instalação do QRadar
+# para instalação do QRadar.
 # Pré requisitos:
 # - auditd deve estar instalado nos servidores sem acesso à internet
 # - nos servidores sem acesso a Internet o arquivo audit.rules deve estar previamente presente em "/tmp"
